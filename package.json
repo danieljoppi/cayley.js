@@ -27,6 +27,7 @@
     "q": "^1.0.1"
   },
   "dependencies": {
+    "httpsync": "0.0.8",
     "request": "^2.37.0"
   }
 }
